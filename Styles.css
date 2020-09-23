@@ -1,5 +1,5 @@
 .bord {
-    background-color: lightyellow;
+    background-color: whitesmoke;
     border: 4px ridge black;
     border-radius: 25px;
     height: 700px;
@@ -8,11 +8,11 @@
     margin-right: 20%px;
     margin-top: 50px;
     margin-bottom: 200px;
+    box-shadow: 5px 5px black;
 }
 
 #naam {
-    margin-left: 25%;
-    font-family: ;
+    text-align: center;
 }
 
 #hr {
@@ -23,4 +23,76 @@
     border-top: 1px solid #ccc;
     margin: 1em 0;
     padding: 0;
+}
+
+#keuzeveld{
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.grid-container3 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.grid-container4 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+
+#texxt {
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#nummer1 {
+    justify-self: center;
+}
+
+#nummer2 {
+    justify-self: center;
+}
+
+#nummer3 {
+    justify-self: center;
+}
+
+keuzeveld.grid-container.btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+keuzeveld.grid-container.btn:hover {
+    background-color: black;
+}
+
+small {
+    text-align: center;
+    justify-self: center;
+    align-items: center;
+    font-size: 17px;
+    margin-left: 183px;
 }

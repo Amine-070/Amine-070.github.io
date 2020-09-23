@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1401a0ad-1f65-456e-8bf2-65c124df35ca" name="Default Changelist" comment="added container class">
+    <list default="true" id="1401a0ad-1f65-456e-8bf2-65c124df35ca" name="Default Changelist" comment="updateee">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -65,7 +65,9 @@
       <workItem from="1600256738612" duration="1102000" />
       <workItem from="1600259204810" duration="2050000" />
       <workItem from="1600266144661" duration="34000" />
-      <workItem from="1600266180595" duration="1556000" />
+      <workItem from="1600266180595" duration="1661000" />
+      <workItem from="1600412540334" duration="916000" />
+      <workItem from="1600859356914" duration="7586000" />
     </task>
     <task id="LOCAL-00001" summary="rename">
       <created>1600259223683</created>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600260339155</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updateee">
+      <created>1600267827269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600267827269</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,16 +125,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rename" />
     <MESSAGE value="added container class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added container class" />
+    <MESSAGE value="updateee" />
+    <option name="LAST_COMMIT_MESSAGE" value="updateee" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="235" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600266176328">
       <screen x="72" y="27" width="1644" height="900" />
     </state>
     <state x="677" y="235" width="424" height="491" key="FileChooserDialogImpl/72.27.1644.900@72.27.1644.900" timestamp="1600266176328" />
-    <state x="408" y="209" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600260345505">
+    <state x="408" y="209" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600267832478">
       <screen x="72" y="27" width="1644" height="900" />
     </state>
-    <state x="408" y="209" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1644.900@72.27.1644.900" timestamp="1600260345505" />
+    <state x="408" y="209" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1644.900@72.27.1644.900" timestamp="1600267832478" />
   </component>
 </project>
